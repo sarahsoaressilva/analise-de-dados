@@ -1,8 +1,8 @@
 # Analise de Dados
 Este repositório foi criado para armazenar os estudos feitos de Análise de Dados na Linguagem **Python** com o **Jupyter Notebook**.
 
-Data de Criação: 27/01/2022
-Ultima Data de Atualização:  25/04/2022
+- Data de Criação: 27/01/2022
+- Ultima Data de Atualização:  25/04/2022
 
 ### 1 - CIRP Freshmen Analysis.ipynb
 - Primeiro estudo feito utilizando o Jupyter Notebook.
